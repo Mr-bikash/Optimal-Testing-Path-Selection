@@ -1,0 +1,5 @@
+Process for Finding the test path - 
+1 - Create a Control Flow Graph.
+2 - Calculate the Graph's Cyclomatic Complexity
+3 - Identify the Paths That Aren't Connected
+4 - Create test cases based on independent paths.
